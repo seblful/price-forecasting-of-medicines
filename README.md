@@ -1,5 +1,4 @@
 # Predicting price of medicines
-Predicting price of medicines with ensemble machine learning models
+Predicting price of medicines with several machine learning models
 
-#### The repository has 2 parts:
-1) Notebook with preprocessing and building machine models
+Notebook with preprocessing and building machine models 'price_forecasting_of_medicines.ipynb'
